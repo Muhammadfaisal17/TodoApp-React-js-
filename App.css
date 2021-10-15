@@ -1,0 +1,40 @@
+body{
+  background-color: #48cae4;
+
+}
+.todo{
+  text-align: center;
+}
+.heading{
+  display: inline-block;
+}
+input{
+  margin-right: 10px;
+  border-radius: 15px;
+  height: 25px;
+  width: 300px;
+  text-align: center;
+}
+
+h3{
+  margin-right: 10px;
+  font-style: italic;
+}
+button{
+  border-radius: 15px;
+  width: 60px;
+  height: 40px;
+}
+.add
+{
+background-color: green;
+color: white;
+}
+.delete{
+background-color:blue;
+color:white;
+}
+.deleteall{
+background-color: red;
+color: white;
+}
